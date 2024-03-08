@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/942127621145664674/f85005ffd3e5401b9fccbe91b33be07c/artifacts
+end_time: 1709880749181
+entry_point_name: ''
+experiment_id: '942127621145664674'
+lifecycle_stage: active
+run_id: f85005ffd3e5401b9fccbe91b33be07c
+run_name: placid-loon-392
+run_uuid: f85005ffd3e5401b9fccbe91b33be07c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709880737793
+status: 3
+tags: []
+user_id: mew

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/942127621145664674/0f9d3298b1af4cdd9d012275abc9afd6/artifacts
+end_time: 1709881881292
+entry_point_name: ''
+experiment_id: '942127621145664674'
+lifecycle_stage: active
+run_id: 0f9d3298b1af4cdd9d012275abc9afd6
+run_name: treasured-toad-933
+run_uuid: 0f9d3298b1af4cdd9d012275abc9afd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709881872418
+status: 3
+tags: []
+user_id: mew

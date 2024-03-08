@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/942127621145664674
+creation_time: 1709693376384
+experiment_id: '942127621145664674'
+last_update_time: 1709693376384
+lifecycle_stage: active
+name: MLflow Sklearn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/942127621145664674/2584bdf5bdeb478893682a6d3aee4124/artifacts
+end_time: 1709693386915
+entry_point_name: ''
+experiment_id: '942127621145664674'
+lifecycle_stage: active
+run_id: 2584bdf5bdeb478893682a6d3aee4124
+run_name: bouncy-slug-137
+run_uuid: 2584bdf5bdeb478893682a6d3aee4124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709693376913
+status: 3
+tags: []
+user_id: mew
